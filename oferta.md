@@ -1,1 +1,0 @@
-<!-- zawartość oferta.md -->
