@@ -1,1 +1,0 @@
-<!-- zawartość about.md -->
